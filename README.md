@@ -353,10 +353,10 @@ When reporting issues, please include:
 ## 👨‍🎓 Author & Academic Context
 
 **Author**: aibalasy1  
-**Institution**: [University Name]  
+**Institution**: [Astana IT University ]  
 **Degree Program**: Environmental Engineering / Data Science  
 **Academic Year**: 2024-2025  
-**Supervisor**: [Supervisor Name]  
+**Supervisor**: [Didar Yedilkhan]  
 
 ### 🏆 Academic Achievements
 - Advanced time series analysis methodologies
